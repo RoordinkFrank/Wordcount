@@ -1,0 +1,5 @@
+A:BD
+B:E
+C:B
+D:CE
+E:ACD

@@ -1,0 +1,5 @@
+A:E
+B:AC
+C:DE
+D:AE
+E:BE
